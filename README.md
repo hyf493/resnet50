@@ -1,8 +1,8 @@
-# VGG16 with PyTorch
+# Resnet50 with PyTorch
 
 *Authors: hyf493*
 
-Note: 所有脚本需要在 `vgg16`.文件夹下运行
+Note: 所有脚本需要在 `resnet50`.文件夹下运行
 
 ## 依赖
 
